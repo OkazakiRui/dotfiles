@@ -1,0 +1,8 @@
+{
+  "doller": {
+    "scope": "scss",
+    "prefix": "dol",
+    "body": ["$"],
+    "description": "doller"
+  }
+}

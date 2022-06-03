@@ -1,0 +1,8 @@
+{
+  "and after": {
+    "scope": "scss",
+    "prefix": "after",
+    "body": ["&::after "],
+    "description": "and after"
+  }
+}

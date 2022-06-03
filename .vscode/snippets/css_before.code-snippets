@@ -1,0 +1,8 @@
+{
+  "and before": {
+    "scope": "scss",
+    "prefix": "before",
+    "body": ["&::before "],
+    "description": "and before"
+  }
+}

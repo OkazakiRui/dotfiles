@@ -1,0 +1,8 @@
+{
+  "par": {
+    "scope": "scss",
+    "prefix": "par",
+    "body": ["%"],
+    "description": "par"
+  }
+}

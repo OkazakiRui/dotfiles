@@ -1,0 +1,8 @@
+{
+  "and": {
+    "scope": "scss",
+    "prefix": "and",
+    "body": ["&"],
+    "description": "and"
+  }
+}
